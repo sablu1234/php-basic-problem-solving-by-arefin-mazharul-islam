@@ -1,0 +1,55 @@
+<?php
+// MYSQL = database name
+$dbhost = 'localhost';
+$dbname = 'php_b1';
+$dbuser = 'root';
+$dbpass = '';
+try {
+    $pdo = new PDO("mysql:host={$dbhost};dbname={$dbname}", $dbuser, $dbpass);
+    $pdo -> setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+}
+catch(PDOException $e){
+    echo "Connection error :" . $e->getMessage();
+}
+
+// create a table by the name "students". please write the query for me.
+// $sql = "CREATE TABLE students(
+// id INT(11) AUTO_INCREMENT PRIMARY KEY,
+// name VARCHAR(50) NOT NULL,
+// email VARCHAR(50) NOT NULL,
+// password VARCHAR(50) NOT NULL,
+// status ENUM('active', 'inactive') DEFAULT 'active',
+// token VARCHAR(255),
+// photo VARCHAR(255),
+// cover VARCHAR(255),
+// job VARCHAR(50)
+// )";
+
+// $pdo->exec($sql);
+
+$statement = $pdo->prepare("INSERT INTO students(name,email) VALUES(?,?)");
+$statement->execute(['Smith','smith@gmail.com']);
+
+
+
+// $statement = $pdo->prepare("INSERT INTO students(name,email) VALUES(:name,:email)");
+// $statement->bindParam(':name', $name);
+// $statement->bindParam(':email', $email);
+// $name = 'peter';
+// $email = 'peter@gmail.com';
+// $statement->execute();
+
+
+// $statement = $pdo->prepare("INSERT INTO students(name,email) VALUES(?,?)");
+// $statement->execute(['Smith','smith@gmail.com']);
+
+
+// $statement = $pdo->prepare("UPDATE students SET name=?,email=? WHERE id=?");
+// $statement->execute(['Mister devid','devid@gmail.com',23]);
+
+
+// $statement = $pdo->prepare("DELETE FROM students");
+// $statement->execute();
+
+$statement = $pdo->prepare("DELETE FROM students WHERE id=?");
+$statement->execute([31]);
