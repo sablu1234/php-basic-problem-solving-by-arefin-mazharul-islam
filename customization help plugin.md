@@ -117,3 +117,34 @@ migration check site at think moto backup hoyese kina =>https://traktor.servmask
 59.   how to show user list => https://www.youtube.com/watch?v=A0xHVQJsj8U
 60.   microsoft SMTP azure account smtp => https://azure.microsoft.com/en-us/get-started/azure-portal
 61.   how can i create user meta field by jetengine => https://youtu.be/orK6MpFdgRs
+62.   Create an Animated Hamburger Menu => https://www.youtube.com/watch?v=MyBQSXAO6rI
+63.  Elementor Stroke Text Slide Animation => https://www.youtube.com/watch?v=vXAEklllMcU
+64.  How to Change Header and Menus on Scroll => https://www.youtube.com/watch?v=XQXlRIqWyfo
+65.  Custom Animated Sticky Header in Elementor => https://www.youtube.com/watch?v=XQXlRIqWyfo
+66.  text svg to real svg => https://jakearchibald.github.io/svgomg/
+67. wp logout link => https://georgetuk.svalphawp.com/wp-login.php?action=logout&_wpnonce=16cf0af40f
+68. mail genereator by telegram => Temp Mail ✉️ Official Bot
+69. mail generetion > https://mailmeteor.com/tools/gmail-generator
+70. All emoji => https://www.piliapp.com/facebook-symbols/
+71. Meta tag generator => https://magicwptools.com/
+72. api find => https://rapidapi.com/
+73. bluehost ar cashe plugin => AirLift 
+74. mail testing site => https://mailtrap.io/
+75. text copy from image => PowerToys
+76. my ip address check => https://whatismyipaddress.com/
+77. hosting checker provider => https://hostingchecker.com/
+78. jetengine database => https://www.youtube.com/watch?v=xT7tNn_oqRE
+79. Database check plugins => WP Data Access – No-Code App Builder with Tables, Forms, Charts & Maps
+80. Normal smtp => SMTP Host => smtp.gmail.com , SSL ,SMTP Port => 465,Auto TLS => Off,Authentication=>on,2step verification link =>https://myaccount.google.com/security -> akhane giye search => app pasword
+81. Fiver message check => https://txt-sanitizer.pages.dev/ 
+82. Animation icon site >=> https://lordicon.com/icons/wired/outline?f=free
+83.  image upload live link genereate => https://postimages.org/
+84.  all image convert to any file => https://bulkresizephotos.com/
+85.  bdcalling all template and plugins reasources => https://devsjahed.com/
+86.  Ai prompts image generator=> https://www.recraft.ai/mobile?tab=gallery&subtab=history
+87.  Logo design ai => https://ideogram.ai/
+88.  Premium Addons Pro for Elementor => veritical widger scrolling widget
+89.  page speed / site speed test => https://pagespeed.web.dev/
+90.  site speed plugin => https://app.airlift.net/
+91.  custom fonts plguin real use => https://wordpress.org/plugins/custom-fonts/ => https://www.youtube.com/watch?v=XTx5IHFJ3DE&t=46s
+92.  
